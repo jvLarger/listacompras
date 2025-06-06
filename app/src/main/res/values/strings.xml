@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">listacompras</string>
+
     <string name="title_main_activity">Listas de Compras</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_new_list_activity">Criar Listas de Compras</string>
+
+    <string name="label_list_name">Nome da Lista:</string>
+    <string name="hint_list_name">Digite o nome da lista</string>
+
 </resources>
